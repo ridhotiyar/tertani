@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/home1Fragment">
+
+    <fragment
+        android:id="@+id/home1Fragment"
+        android:name="com.example.tertani.home1Fragment"
+        android:label="fragment_home1"
+        tools:layout="@layout/fragment_home1" />
+    <fragment
+        android:id="@+id/shoopFragment"
+        android:name="com.example.tertani.shoopFragment"
+        android:label="fragment_shoop"
+        tools:layout="@layout/fragment_shoop" />
+    <fragment
+        android:id="@+id/invest1Fragment"
+        android:name="com.example.tertani.invest1Fragment"
+        android:label="fragment_invest1"
+        tools:layout="@layout/fragment_invest1" />
+    <fragment
+        android:id="@+id/busines1Fragment"
+        android:name="com.example.tertani.busines1Fragment"
+        android:label="fragment_busines1"
+        tools:layout="@layout/fragment_busines1" />
+</navigation>

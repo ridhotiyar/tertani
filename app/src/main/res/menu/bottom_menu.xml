@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home1Fragment"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"
+        />
+
+    <item
+        android:id="@+id/shoopFragment"
+        android:title="@string/shopping"
+        android:icon="@drawable/ic_shopping"
+        />
+
+    <item
+        android:id="@+id/invest1Fragment"
+        android:title="@string/invest"
+        android:icon="@drawable/ic_invest"
+        />
+
+    <item
+        android:id="@+id/busines1Fragment"
+        android:title="@string/bisnis"
+        android:icon="@drawable/ic_store"
+        />
+</menu>

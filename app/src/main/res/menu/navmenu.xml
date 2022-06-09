@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_account"
+            android:title="akun" />
+
+        <item
+            android:id="@+id/nav_coba1"
+            android:title="coba1" />
+
+        <item
+            android:id="@+id/nav_coba2"
+            android:title="coba2" />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="profil">
+
+            <menu>
+                <item
+                    android:id="@+id/nav_coba4"
+                    android:title="coba4" />
+
+                <item
+                    android:id="@+id/nav_coba5"
+                    android:title="coba5" />
+            </menu>
+        </item>
+
+    </group>
+
+</menu>

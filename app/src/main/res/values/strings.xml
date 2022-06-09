@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">tertani</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invest_fragment">invest Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="bisnis_fragment">Bisnis Fragment</string>
+    <string name="shoop_fragment">shoop Fragment</string>
+    <string name="home">Home</string>
+    <string name="shopping">Shopping</string>
+    <string name="invest">Invest</string>
+    <string name="bisnis">Bisnis</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
